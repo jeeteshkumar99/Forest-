@@ -2,7 +2,7 @@ import { LoginForm } from "@/components/login-form"
 
 export default function LoginPage() {
   return (
-    <div className="flex min-h-screen items-center  justify-center px-8  bg-gradient-to-br from-orange-950 to-slate-950">
+    <div className="flex min-h-screen items-center  justify-center  bg-gradient-to-br from-orange-950 to-slate-950">
       <LoginForm />
     </div>
   )

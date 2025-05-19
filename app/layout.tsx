@@ -34,7 +34,7 @@ export default function RootLayout({
           <SidebarProvider>
             <AuthGuard>
               <div>
-                <h1>welcome</h1>
+                
               </div>
             </AuthGuard>
             <div className="flex min-h-screen">
